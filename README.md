@@ -1,4 +1,10 @@
-# What and Why?
+# What you need to do?
+* [ ] add correct information and assets about your company challenge and your team (see instructions below)
+* [ ] for each team member, update your personal information in our [Cornell Studio Tech Directory](https://directory.cornelltech.io) (picture, bio, etc.). Note that you can choose to opt-out once you are in the Cornell Tech Directory.
+
+For questions you may have, feel free to email [hellostudio@cornell.edu](mailto:hellostudio@cornell.edu?subject=Buildboard).
+
+# Why?
 For Product Challenge 2018, we are asking you to use Github to keep track of your progress.
 
 For this purpose, we have created one private Github repo for each team, under ct-product-challenge-2018.
