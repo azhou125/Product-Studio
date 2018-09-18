@@ -1,16 +1,15 @@
 company:
-  name: Tata
+  name: Tata PC0081
   logo: TATA_Logo.jpg
 product_hmw: How might we help reduce food waste by identifying freshness of the perishables goods and predicting the remaining life of the product?
 product_narrative: |
-  Cornell Tech students build some amazing things. But it is often hard to show it to outside people.
-  With BuildBoard, we let students provide regular updates about their work and create a Web version of it.
+    We want to scientifically predict remaining life of perishable products based on the environment the product is exposed to, the integrity of the product packaging, product handling and the lead time. 
 team:
   picture: E383E868-.jpg
   roster:
   - name: Mae Tan
     email: lt435@cornell.edu
-    picture: 3.jpg
+    picture: 3.png
     program: MBA
   - name: Ang Zhou
     email: az493@cornell.edu
@@ -18,11 +17,11 @@ team:
     program: CS
   - name: Jiahui Zhou
     email: jz892@cornell.edu
-    picture: 2.jpg
+    picture: 2.png
     program: CM
   - name: Yingying Zheng
     email: yz949@cornell.edu
-    picture: 4.jpg
+    picture: 4.png
     program: ORIE
 assets:
 - title: Sprint 1
