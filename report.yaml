@@ -5,7 +5,7 @@ product_hmw: How might we help reduce food waste by identifying freshness of the
 product_narrative: |
     We want to scientifically predict remaining life of perishable products based on the environment the product is exposed to, the integrity of the product packaging, product handling and the lead time. 
 team:
-  picture: E383E868-.jpg
+  picture: Team.png
   roster:
   - name: Mae Tan
     email: lt435@cornell.edu
