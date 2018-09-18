@@ -1,5 +1,5 @@
 company:
-  name: Team Tata
+  name: Tata
   logo: TATA_Logo.jpg
 product_hmw: How might we help reduce food waste by identifying freshness of the perishables goods and predicting the remaining life of the product?
 product_narrative: |
@@ -8,14 +8,22 @@ product_narrative: |
 team:
   picture: E383E868-.jpg
   roster:
-  - name: Rachel Sobel
-    email: rachel.sobel.cornell@gmail.com
-    picture: rachel.jpg
-    program: LLM
-  - name: Arnaud Sahuguet
-    email: arnaud.sahuguet@cornell.edu
-    picture: arnaud.png
+  - name: Mae Tan
+    email: lt435@cornell.edu
+    picture: 3.jpg
     program: MBA
+  - name: Ang Zhou
+    email: az493@cornell.edu
+    picture: 1.png
+    program: CS
+  - name: Jiahui Zhou
+    email: jz892@cornell.edu
+    picture: 2.jpg
+    program: CM
+  - name: Yingying Zheng
+    email: yz949@cornell.edu
+    picture: 4.jpg
+    program: ORIE
 assets:
 - title: Sprint 1
   url: http://cornelltech.io/spice-up-your-personal-privacy-with-pepr/
