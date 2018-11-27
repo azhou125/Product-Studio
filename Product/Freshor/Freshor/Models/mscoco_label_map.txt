@@ -1,0 +1,17 @@
+item {
+  id: 1
+  name: 'banana, 1'
+  display_name: "banana, 1"
+}
+
+item {
+  id: 2
+  name: 'banana, 2'
+  display_name: "banana, 2"
+}
+
+item {
+  id: 3
+  name: 'banana, 3'
+  display_name: "banana, 3"
+}
